@@ -1,0 +1,135 @@
+.one{
+  font-size: 15px;
+  text-shadow: 1px 1px 2px black;
+  color: darkslateblue;
+  font-weight: bolder;
+  line-height: 2;
+  box-shadow: 5px 5px 2px;
+  margin: auto;
+  padding: 5px 100px 5px 100px;
+  border-radius: 15px;
+  width: 150px;
+  display: flex;
+  background-color: lavender;
+  border: 5px solid red;
+}
+.two{
+  width: 99%;
+  border: 5px solid green;
+  height: 730px;
+}
+.adress{
+  text-shadow: 1px 1px 2px black;
+  font-weight: bolder;
+  text-align: center;
+  margin-right: 85%;
+  line-height: 2;
+  box-shadow: 5px 5px 2px;
+  padding: 5px 5px 10px 5px;
+  border-radius: 10px;
+  background-color: lavender;
+  border: 5px solid red;
+
+}
+.pic{
+  float: right;
+  margin-top: -150px;
+  text-align: center;
+  line-height: 2;
+  box-shadow: 5px 5px 2px;
+  padding:  20px 20px 20px 20px;
+  border-radius: 10px;
+  background-color: lavender;
+  border: 5px solid red;
+
+}
+.serve{
+  text-shadow: 1px 1px 2px black;
+  font-weight: bolder;
+  margin-top: 200px;
+  text-align: center;
+  margin-right: 85%;
+  line-height: 2;
+  box-shadow: 5px 5px 2px;
+  padding: 5px 5px 10px 5px;
+  border-radius: 10px;
+  background-color: lavender;
+  border: 5px solid red;
+}
+.forth{
+  text-shadow: 1px 1px 2px black;
+  font-weight: bolder;
+  float: right;
+  margin-top: -150px;
+  text-align: center;
+  line-height: 2;
+  box-shadow: 5px 5px 2px;
+  padding:  20px 50px 50px 50px;
+  border-radius: 10px;
+  background-color: lavender;
+  border: 5px solid red;
+}
+.next{
+  font-weight: bolder;
+  margin-left: 15%;
+  margin-right: 15%;
+  align-self: center;
+  height: 631px;
+  background-color: darkgreen;
+  border: 5px solid purple;
+}
+.fruits{
+  margin-left: 10px;
+  font-style: italic;
+  text-align: center;
+  margin-right: 55%;
+  line-height: 2;
+  padding: 5px 70px 20px 20px;
+  background-color: burlywood;
+}
+.vegetables{
+  float: right;
+  margin-right: 10px;
+  margin-left: 50%;
+  margin-top: -250px;
+  font-style: italic;
+  text-align: center;
+  line-height: 2;
+  padding: 5px 5px 20px 60px;
+  background-color: burlywood;
+}
+.other{
+  font-style: italic;
+  margin-top: 20px;
+  padding: 20px 70px 20px 20px;
+  text-align: center;
+  height: 250px;
+  background-color: burlywood;
+}
+.stickey{
+  
+  padding-left: -50px;
+  color:darkred;
+  font-style: italic;
+  border-radius: 10px;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 20%;
+  position: fixed;
+  bottom: 0%;
+  background-color: limegreen;
+  border: 5px solid red;
+  box-shadow: 1px 1px 2px purple;
+  height: 100px;
+}
+.last{
+  font-weight: bolder;
+  margin-top: -75px;
+  margin-right: 50px;
+  text-align: center;
+  float: right;
+}
+.offer{
+  margin-left: 10%;
+  padding-left: -50px;
+}
